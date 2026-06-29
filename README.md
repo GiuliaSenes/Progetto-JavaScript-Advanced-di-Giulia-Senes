@@ -1,4 +1,4 @@
-   ## Hacker News - Professional Feed
+   ## Hacker News - Dynamic Feed
 
 Un'applicazione web moderna e performante che si interfaccia con le API ufficiali di Hacker News per mostrare in tempo reale le ultime notizie pubblicate. Il progetto è sviluppato in JavaScript puro (ES6+), strutturato secondo standard architetturali professionali, ottimizzato per il caricamento progressivo dei dati e interamente testato.
 
