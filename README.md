@@ -1,13 +1,14 @@
-    #Hacker News - Professional Feed
+   ## Hacker News - Professional Feed
 
 Un'applicazione web moderna e performante che si interfaccia con le API ufficiali di Hacker News per mostrare in tempo reale le ultime notizie pubblicate. Il progetto è sviluppato in JavaScript puro (ES6+), strutturato secondo standard architetturali professionali, ottimizzato per il caricamento progressivo dei dati e interamente testato.
 
 ---
 
 ## Demo Online
-
 L'applicazione è accessibile e funzionante online al seguente indirizzo:
-👉 **[INSERISCI QUI IL TUO LINK DI NETLIFY O FIREBASE]** *(Es: https://mio-progetto-hn.netlify.app)*
+Netlify: **https://giuliasenes-hacker-news.netlify.app/** 
+
+Github : **https://github.com/GiuliaSenes/Progetto-JavaScript-Advanced-di-Giulia-Senes** 
 
 ---
 

@@ -1,18 +1,18 @@
 import { repository } from './api/repository.js';
 
-// Elementi del DOM
+
 const newsContainer = document.getElementById('news-container');
 const loadMoreBtn = document.getElementById('load-more-btn');
 const loadingElement = document.getElementById('loading');
 
-// Stato dell'applicazione
+
 export const state = {
     allIds: [],
     currentIndex: 0,
     itemsPerPage: 10
 };
 
-// Funzione helper per estrarre la porzione di ID successiva
+
 export function getNextBatchOfIds(ids, index, perPage) {
     return ids.slice(index, index + perPage);
 }
