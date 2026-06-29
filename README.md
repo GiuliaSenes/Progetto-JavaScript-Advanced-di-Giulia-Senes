@@ -6,6 +6,7 @@ Un'applicazione web moderna e performante che si interfaccia con le API ufficial
 
 ## Demo Online
 L'applicazione è accessibile e funzionante online al seguente indirizzo:
+
 Netlify: **https://giuliasenes-hacker-news.netlify.app/** 
 
 Github : **https://github.com/GiuliaSenes/Progetto-JavaScript-Advanced-di-Giulia-Senes** 
